@@ -1,6 +1,6 @@
 ### Description
-This contains projects created for the tutorianl on this YouTube Channel- https://www.youtube.com/c/MakeesyAI, In which we explain the AI concepts with basic implementations. 
-The Idea is share the implimentation and keep the code for public usage. 
+This contains projects created for the tutorianl on my YouTube Channel- https://www.youtube.com/c/MakeesyAI, In which we explain the AI concepts with basic implementations. 
+The Idea is to share the implimentations and keep the code for public usage. 
 
 Makeesy AI, Let's Keep It Simple.
 
